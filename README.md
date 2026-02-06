@@ -15,9 +15,9 @@ It exists to support:
 
 Each GitHub Release contains the files required for updates:
 
-- `NumberPlateCreator (Installer).exe`  
+- `Number-Plate-Creator-(version).exe`  
 - `latest.yml`  
-- `NumberPlateCreator (Installer).exe.blockmap`
+- `Number-Plate-Creator-(version).exe.blockmap`
 
 These files are generated automatically during the build process and are used by the app to:
 - Detect updates
@@ -65,7 +65,7 @@ Those are intentionally excluded.
 
 If you’re here to download NPC:
 1. Go to **Releases**
-2. Download the latest `NumberPlateCreator (Installer).exe`
+2. Download the latest `Number-Plate-Creator-(version).exe`
 3. Run the installer
 
 ---
